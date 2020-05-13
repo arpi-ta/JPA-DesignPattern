@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d94b7998-5866-499a-afff-24ff594a7e8c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/java/com/cognizant/CriteriaQueryEntitySelection/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/java/com/cognizant/CriteriaQueryEntitySelection/SaveDataLaptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/java/com/cognizant/CriteriaQueryEntitySelection/Utility/HibernateUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/java/com/cognizant/CriteriaQueryEntitySelection/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/java/com/cognizant/CriteriaQueryEntitySelection/model/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/src/test/java/com/cognizant/CriteriaQueryEntitySelection/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/target/classes/META-INF/maven/com.cognizant/CriteriaQueryEntitySelection/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/target/classes/META-INF/maven/com.cognizant/CriteriaQueryEntitySelection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CriteriaQuery/target/classes/hibernate.cfg.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bqsIhke6I4JanZjwGRyovm6cmw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d94b7998-5866-499a-afff-24ff594a7e8c" name="Default Changelist" comment="" />
+      <created>1589370879854</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589370879854</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
